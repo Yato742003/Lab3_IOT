@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "regex": "cpp"
+    },
+    "cmake.ignoreCMakeListsMissing": true,
+    "idf.portWin": "COM8",
+    "idf.espIdfPathWin": "C:\\Users\\Hieu\\esp\\v5.4\\esp-idf",
+    "idf.toolsPathWin": "C:\\Users\\Hieu\\.espressif",
+    "idf.pythonInstallPath": "C:\\Users\\Hieu\\.espressif\\tools\\idf-python\\3.11.2\\python.exe"
+}
